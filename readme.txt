@@ -11,3 +11,4 @@ git me git
 >>>>>>> Stashed changes
 <<<<<<< HEAD
 我也做了修改  做了一些修改
+哈哈哈
