@@ -11,4 +11,4 @@ git me git
 >>>>>>> Stashed changes
 <<<<<<< HEAD
 我也做了修改  做了一些修改
-rebase1
+rebase1  rebase2
