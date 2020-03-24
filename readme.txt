@@ -9,4 +9,5 @@ my stupid boss
 abc wowowo 
 git me git
 >>>>>>> Stashed changes
-我也做了修改
+<<<<<<< HEAD
+我也做了修改  做了一些修改
